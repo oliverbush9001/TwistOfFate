@@ -1,0 +1,14 @@
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\bin\Debug\net8.0\TwistOfFate.exe
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\bin\Debug\net8.0\TwistOfFate.deps.json
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\bin\Debug\net8.0\TwistOfFate.runtimeconfig.json
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\bin\Debug\net8.0\TwistOfFate.dll
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\bin\Debug\net8.0\TwistOfFate.pdb
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.AssemblyInfoInputs.cache
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.AssemblyInfo.cs
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.csproj.CoreCompileInputs.cache
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.dll
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\refint\TwistOfFate.dll
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.pdb
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\TwistOfFate.genruntimeconfig.cache
+C:\Users\Oliver (Work)\WORK DRIVE\Programming1_SP26\TwistOfFate\TwistOfFate\obj\Debug\net8.0\ref\TwistOfFate.dll
